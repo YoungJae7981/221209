@@ -1,0 +1,48 @@
+.link {
+  font-size: 30px;
+}
+
+.link a {
+  color: red;
+  text-decoration: none;
+}
+
+.img img {
+  width: 200px;
+  border-radius: 10px;
+}
+
+.center {
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.center img {
+  width: 300px;
+}
+
+.center a {
+  color: dodgerblue;
+  font-size: 32px;
+  text-decoration: none;
+}
+
+.target {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.target h3 {
+  color: #fff;
+  background-color: dodgerblue;
+  border-radius: 5px;
+}
+
+.target a {
+  font-size: 36px;
+  color: greenyellow;
+  text-decoration: none;
+}
+
